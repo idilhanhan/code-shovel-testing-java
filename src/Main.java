@@ -7,7 +7,7 @@ public class Main {
      */
     public static int getMaximum(int x, int y){
         /*
-         * This is a regular multi-line comment
+         * This is a sample multi-line comment
          */
         return y;
     }
