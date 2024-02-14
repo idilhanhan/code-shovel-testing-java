@@ -11,10 +11,3 @@ class Parent{
 
 }
 
-public class Math extends Parent {
-    public static boolean isEqual(int x, int y){
-        return x == y;
-    }
-
-}
-
