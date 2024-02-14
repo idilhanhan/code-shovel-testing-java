@@ -1,4 +1,4 @@
-import test.Tester;
+import tester.Tester;
 
 public class Main {
     public static int getSum(int x, int y){
