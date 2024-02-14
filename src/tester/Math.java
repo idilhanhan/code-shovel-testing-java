@@ -1,6 +1,6 @@
 package tester;
 
-public class Tester {
+public class Math {
     public static boolean isEqual(int x, int y){
         return x == y;
     }
