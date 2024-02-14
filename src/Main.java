@@ -16,6 +16,7 @@ public class Main {
         if (x <= y){
             return x;
         }
+
         return y;
     }
 
