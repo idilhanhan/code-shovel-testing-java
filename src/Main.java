@@ -1,10 +1,4 @@
 public class Main {
-    /**
-     * javadoc comment UPDATED
-     * @param x
-     * @param y
-     * @return
-     */
     public static int getMaximum(int x, int y){
         return x + y;
     }
