@@ -1,9 +1,6 @@
 package tester;
 
 public class Math {
-    public static boolean isEqual(int x, int y){
-        return x == y;
-    }
 
     public static int getMinimum(int x, int y){
         if (x <= y){
@@ -11,4 +8,9 @@ public class Math {
         }
         return y;
     }
+
+    public static boolean isEqual(int x, int y){
+        return x == y;
+    }
+
 }
