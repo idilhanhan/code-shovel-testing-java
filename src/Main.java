@@ -6,9 +6,6 @@ public class Main {
      * @return
      */
     public static int getMaximum(int x, int y){
-        if(x >= y){ // comment
-            return x;
-        }
         /*
          * This is a regular multi-line comment
          */
