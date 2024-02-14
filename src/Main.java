@@ -6,10 +6,7 @@ public class Main {
      * @return
      */
     public static int getMaximum(int x, int y){
-        /*
-         * This is a sample multi-line comment
-         */
-        return y;
+        return x + y;
     }
 
     public static int getMinimum(int x, int y){
