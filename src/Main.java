@@ -1,3 +1,5 @@
+import test.Tester;
+
 public class Main {
     public static int getSum(int x, int y){
         return x + y;
