@@ -1,4 +1,10 @@
 public class Main {
+    /**
+     * javadoc comment
+     * @param x
+     * @param y
+     * @return
+     */
     public static int getMaximum(int x, int y){
         if(x >= y){ // comment
             return x;
