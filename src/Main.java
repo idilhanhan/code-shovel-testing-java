@@ -3,6 +3,9 @@ public class Main {
         if(x >= y){ // comment
             return x;
         }
+        /*
+         * This is a regular multi-line comment
+         */
         return y;
     }
 
