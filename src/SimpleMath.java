@@ -15,6 +15,9 @@ public class SimpleMath {
     }
 
     public int getMinimum(){
-        return x;
+        if(x <= y){
+            return x;
+        }
+        return y;
     }
 }
