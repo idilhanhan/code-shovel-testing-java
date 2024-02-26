@@ -9,4 +9,12 @@ public class SimpleMath {
     public int getSum(){
         return x + y;
     }
+
+    public int getDifference(){
+        return x - y;
+    }
+
+    public int getMinimum(){
+        return x;
+    }
 }
