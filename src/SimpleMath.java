@@ -22,7 +22,7 @@ public class SimpleMath {
     }
 
     public int getMaximum(){
-        if(x >= y){
+        if(x >= y){ //if stat
             return x;
         }
         return y;
