@@ -20,4 +20,11 @@ public class SimpleMath {
         }
         return y;
     }
+
+    public int getMaximum(){
+        if(x >= y){ //if stat
+            return x;
+        }
+        return y;
+    }
 }
